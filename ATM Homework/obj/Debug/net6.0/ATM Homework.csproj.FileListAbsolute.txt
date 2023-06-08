@@ -1,0 +1,15 @@
+D:\مجلد جديد\ATM Homework\ATM Homework\bin\Debug\net6.0\ATM Homework.exe
+D:\مجلد جديد\ATM Homework\ATM Homework\bin\Debug\net6.0\ATM Homework.deps.json
+D:\مجلد جديد\ATM Homework\ATM Homework\bin\Debug\net6.0\ATM Homework.runtimeconfig.json
+D:\مجلد جديد\ATM Homework\ATM Homework\bin\Debug\net6.0\ATM Homework.dll
+D:\مجلد جديد\ATM Homework\ATM Homework\bin\Debug\net6.0\ref\ATM Homework.dll
+D:\مجلد جديد\ATM Homework\ATM Homework\bin\Debug\net6.0\ATM Homework.pdb
+D:\مجلد جديد\ATM Homework\ATM Homework\obj\Debug\net6.0\ATM Homework.csproj.AssemblyReference.cache
+D:\مجلد جديد\ATM Homework\ATM Homework\obj\Debug\net6.0\ATM Homework.GeneratedMSBuildEditorConfig.editorconfig
+D:\مجلد جديد\ATM Homework\ATM Homework\obj\Debug\net6.0\ATM Homework.AssemblyInfoInputs.cache
+D:\مجلد جديد\ATM Homework\ATM Homework\obj\Debug\net6.0\ATM Homework.AssemblyInfo.cs
+D:\مجلد جديد\ATM Homework\ATM Homework\obj\Debug\net6.0\ATM Homework.csproj.CoreCompileInputs.cache
+D:\مجلد جديد\ATM Homework\ATM Homework\obj\Debug\net6.0\ATM Homework.dll
+D:\مجلد جديد\ATM Homework\ATM Homework\obj\Debug\net6.0\ref\ATM Homework.dll
+D:\مجلد جديد\ATM Homework\ATM Homework\obj\Debug\net6.0\ATM Homework.pdb
+D:\مجلد جديد\ATM Homework\ATM Homework\obj\Debug\net6.0\ATM Homework.genruntimeconfig.cache

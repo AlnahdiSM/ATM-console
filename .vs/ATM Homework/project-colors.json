@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e2e12f84-5431-42b8-9bb3-b34e877699a3": {
+      "ProjectGuid": "e2e12f84-5431-42b8-9bb3-b34e877699a3",
+      "DisplayName": "ATM Homework",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
